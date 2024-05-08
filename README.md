@@ -1,10 +1,9 @@
 ### Hi there 👋
-
-Data science with R
+I am currently learning python and SQL
 
 Data science with Python 
 
-SQL + R/python
+SQL + python
 <!--
 **machanigechemba/machanigechemba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
