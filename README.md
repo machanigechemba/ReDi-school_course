@@ -3,8 +3,14 @@ This is a data analytics course I did at ReDi School Berlin.
 
 **Skills gained**
 
-Python pandas, numpy, matplotlib, seaborn, 
-SQL
+Data analytics with Python (pandas, numpy)
+
+Data analysis with SQL
+
+Data visualization with matplotlib and seaborn
+
+Creating dashboards with SQL (prostsql)
+
 Git
 
 <!--
