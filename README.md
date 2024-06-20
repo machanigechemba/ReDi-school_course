@@ -1,9 +1,12 @@
 ### Hi there 👋
-I am currently learning python and SQL
+This is a data analytics course I did at ReDi School Berlin.
 
-Data science with Python 
+**Skills gained**
 
-SQL + python
+Python pandas, numpy, matplotlib, seaborn, 
+SQL
+Git
+
 <!--
 **machanigechemba/machanigechemba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
